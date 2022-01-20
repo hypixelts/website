@@ -26,7 +26,7 @@ const config = {
 				entryPoints: ['./packages/hypixel.ts/src/index.ts'],
 				tsconfig: './packages/hypixel.ts/src/tsconfig.json',
 				readme: 'none',
-				out: 'documentation/main'
+				out: 'documentation'
 			}
 		]
 	],
@@ -76,7 +76,7 @@ const config = {
 						label: 'Getting Started'
 					},
 					{
-						to: 'docs/documentation/main',
+						to: 'docs/documentation',
 						position: 'left',
 						label: 'Documentation'
 					},
@@ -94,11 +94,6 @@ const config = {
 			},
 			footer: {
 				style: 'dark',
-				logo: {
-					alt: 'Powered By Vercel',
-					src: 'img/svg/powered-by-vercel.svg',
-					href: 'https://vercel.com/'
-				},
 				links: [
 					{
 						title: 'Our Platforms',

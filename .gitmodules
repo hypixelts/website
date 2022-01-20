@@ -1,0 +1,4 @@
+[submodule "packages/hypixel.ts"]
+	path = packages/hypixel.ts
+	url = https://github.com/hypixelts/hypixel.ts
+	branch = main
