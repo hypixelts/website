@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://hypixelts.github.io/website",
+  "homepage": "http://hypixelts.js.org/",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
