@@ -6,7 +6,7 @@ const { ts2esm2cjs } = require('@sapphire/docusaurus-plugin-ts2esm2cjs');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: 'hypixel.ts',
-	baseUrl: '/',
+	baseUrl: '/website',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'throw',
 	onDuplicateRoutes: 'throw',
