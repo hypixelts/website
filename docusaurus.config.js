@@ -81,7 +81,7 @@ const config = {
 						label: 'Documentation'
 					},
 					{
-						href: 'https://hypixel.js.org/discord',
+						href: 'https://discord.gg/DDTmaeYUMF',
 						label: 'Discord',
 						position: 'right'
 					},
