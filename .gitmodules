@@ -1,0 +1,3 @@
+[submodule "hypixel.ts"]
+	path = hypixel.ts
+	url = https://github.com/hypixelts/hypixel.ts
