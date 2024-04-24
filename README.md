@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="static/img/png/full-nobg5232x945.png">
+<img src="/public/full-nobg5232x945.png">
 
 # Hypixel.TS Website
 
