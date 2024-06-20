@@ -35,7 +35,7 @@
     "@docusaurus/types": "^3.2.1",
     "@sapphire/ts-config": "^5.0.1",
     "prettier": "^3.2.5",
-    "typescript": "~5.4.0"
+    "typescript": "~5.5.0"
   },
   "browserslist": {
     "production": [
