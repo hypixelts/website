@@ -18,7 +18,7 @@ Once you have installed hypixel.ts, you can start using it in your project. Here
 
 ```ts ts2esm2cjs
 import { Client } from "hypixel.ts";
-const client = new Client({ apiKey: "YOUR_API_KEY" }).start();
+const client = new Client({ apiKeys: ['YOUR_API_KEY'] }).start();
 // using the player username:
 client.players.fetch("FC5570").then(console.log);
 // using the player UUID:
