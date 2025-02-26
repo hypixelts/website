@@ -44,12 +44,11 @@ const config: Config = {
           breadcrumbs: true,
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          includeCurrentVersion: true,
           sidebarPath: "./sidebars.ts",
           remarkPlugins: [convertNpmToPackageManagers, ts2esm2cjs],
         },
         theme: {
-          customCss: "./src/css/custom.css",
+          customCss: resolve("./src/css/custom.css"),
         },
         sitemap: {
           changefreq: EnumChangefreq.MONTHLY,
@@ -113,7 +112,7 @@ const config: Config = {
         {
           to: "api",
           label: "Documentation",
-          psotion: "left",
+          position: "left",
         },
         {
           href: "https://discord.gg/DDTmaeYUMF",
