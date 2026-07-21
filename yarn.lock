@@ -11990,12 +11990,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.3.1":
-  version: 18.3.1
-  resolution: "react@npm:18.3.1"
-  dependencies:
-    loose-envify: "npm:^1.1.0"
-  checksum: 10c0/283e8c5efcf37802c9d1ce767f302dd569dd97a70d9bb8c7be79a789b9902451e0d16334b05d73299b20f048cbc3c7d288bbbde10b701fa194e2089c237dbea3
+"react@npm:^19.0.0":
+  version: 19.2.7
+  resolution: "react@npm:19.2.7"
+  checksum: 10c0/0bd0e2f1bbd4ba97561c6597bf8a5fec05e6476fe61e165c1065598d16668efc6715205599c94d3ddd49d36cb0f21cbf1b9bcc18ee840b805ce222c3e8d558ac
   languageName: node
   linkType: hard
 
@@ -14184,7 +14182,7 @@ __metadata:
     docusaurus-plugin-typedoc-api: "npm:^4.4.0"
     prettier: "npm:^3.2.5"
     prism-react-renderer: "npm:^2.4.1"
-    react: "npm:^18.3.1"
+    react: "npm:^19.0.0"
     react-dom: "npm:^18.3.1"
     typescript: "npm:5.9.3"
   languageName: unknown
