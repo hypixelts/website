@@ -34,7 +34,7 @@
     "@docusaurus/module-type-aliases": "^3.7.0",
     "@docusaurus/tsconfig": "^3.7.0",
     "@docusaurus/types": "^3.7.0",
-    "@sapphire/ts-config": "^5.0.1",
+    "@sapphire/ts-config": "^6.0.0",
     "prettier": "^3.2.5",
     "typescript": "5.9.3"
   },
